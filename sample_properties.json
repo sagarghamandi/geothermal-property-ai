@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Smith Residence",
+    "property_type": "Residential",
+    "address": "123 Maple Street",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215",
+    "sqft": 2400,
+    "lot_acres": 0.75,
+    "year_built": 1998,
+    "hvac_type": "Gas Furnace + Central AC",
+    "monthly_energy_bill": 280,
+    "occupants": 4
+  },
+  {
+    "name": "Downtown Office Building",
+    "property_type": "Commercial",
+    "address": "456 Commerce Blvd",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46204",
+    "sqft": 12000,
+    "lot_acres": 1.5,
+    "year_built": 2005,
+    "hvac_type": "Rooftop Units (RTUs)",
+    "monthly_energy_bill": 3200,
+    "business_type": "Office"
+  },
+  {
+    "name": "Johnson Family Home",
+    "property_type": "Residential",
+    "address": "789 Oak Lane",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37201",
+    "sqft": 3100,
+    "lot_acres": 1.2,
+    "year_built": 2012,
+    "hvac_type": "Heat Pump",
+    "monthly_energy_bill": 195,
+    "occupants": 3
+  }
+]
